@@ -7,8 +7,8 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.1.0.3');
-  api.addFiles('jquery-rotate.js');
+  api.versionsFrom('0.9.0');
+  api.addFiles('jquery.rotate.1-1.js');
 });
 
 Package.onTest(function(api) {
