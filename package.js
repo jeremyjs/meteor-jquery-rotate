@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('0.9.0');
-  api.addFiles('jquery.rotate.1-1.js');
+  api.addFiles(['jquery.rotate.1-1.js'], 'client');
 });
 
 Package.onTest(function(api) {
