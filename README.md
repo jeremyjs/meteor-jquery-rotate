@@ -3,18 +3,13 @@ This library is an extension for jQuery to rotate images directly within JavaScr
 
 ## Implementation
 Two JavaScript image handling implementations are supported:
-
-using DXImageTransform filter for Microsoft Internet Explorer
-
-using Canvas object for other browsers
+- using DXImageTransform filter for Microsoft Internet Explorer
+- using Canvas object for other browsers
 
 The library has been tested with:
-
-Mozilla FireFox 2.0.0.2
-
-Internet Explorer 7.0
-
-Opera 9.1 (note Opera 8 is not supported)
+- Mozilla FireFox 2.0.0.2
+- Internet Explorer 7.0
+- Opera 9.1 (note Opera 8 is not supported)
 
 ## Functions
 ```
